@@ -20,7 +20,7 @@ More than 2 years of experience in Citibank and Sber as a business analyst and r
 
 PostgreSQL, MS SQL Server, Oracle PL/SQL, Teradata, SAS EG, dbt Cloud
 
-**Data analysis/Data cience:**
+**Data analysis/Data science:**
 
 Python, Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn, LightGBM, SciPy, PySpark
 
